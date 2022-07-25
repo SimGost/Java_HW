@@ -1,3 +1,5 @@
+package Java_HW.Lesson_Eight;
+
 public class Pet {
 
     private String name;
